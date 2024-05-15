@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447297156275",
+    "project_id": "msjuygulamasiback",
+    "storage_bucket": "msjuygulamasiback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447297156275:android:c816a34a2f01a921c5ecc6",
+        "android_client_info": {
+          "package_name": "com.example.msjuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqr7c2T4XMgc5ynfRUGUUMS28sMF51hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
